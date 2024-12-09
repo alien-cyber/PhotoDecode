@@ -1,0 +1,23 @@
+{
+
+    "postLiveSpan": 86400000,
+
+ 
+  "theme": {
+    "primary": "#000000",
+    "secondary": "#07495F",
+    "tertiary": "#0E92BE",
+    "weak": "#B2B2B2",
+    "background": "#56CCF2",
+    "shadow": "rgba(0,0,0,0.3)",
+    "orangered": "#FF4500"
+  },
+  "pinnedPost": {
+    "title": "Let's play PhotoDecode!"
+  },
+  "authorRewardForSubmit": 10,
+  "authorRewardForCorrectGuess": 1,
+  "guesserRewardForSolve": 2,
+  "guesserRewardForFirstSolve": 10
+
+}
